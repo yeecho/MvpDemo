@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_item_bg_stroke_width">6dp</dimen>
+    <dimen name="main_item_bg_conner">12dp</dimen>
+    <dimen name="custom_toolbar_toBottom">20dp</dimen>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="button_color">#5F92D7</color>
+    <color name="button_color_unclickable">#505F92D7</color>
+    <color name="text_color">#ffffff</color>
+
+    <color name="defaultColor">#F1D1A1</color>
+    <color name="passColor">#A1F1A1</color>
+    <color name="failColor">#F59898</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FF8B00</color>
+    <color name="yellow">#FFDF00</color>
+    <color name="green">#14FF00</color>
+    <color name="cyan">#00D0FF</color>
+    <color name="blue">#0019FF</color>
+    <color name="purple">#9E00FF</color>
+    <color name="black">#000000</color>
+</resources>

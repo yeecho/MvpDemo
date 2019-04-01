@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="test_items">
+        <item>系统规格</item>
+        <item>显示屏</item>
+        <item>TP</item>
+        <item>相机</item>
+        <item>WIFI</item>
+        <item>蓝牙</item>
+        <item>扬声器</item>
+        <item>耳机</item>
+        <item>录音</item>
+        <item>电池</item>
+        <item>SD卡、U盘</item>
+        <item>以太网</item>
+        <item>HDMI</item>
+    </string-array>
+</resources>
